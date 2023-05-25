@@ -1,0 +1,5 @@
+{
+  "url": "https://demoqa.com",
+  "textFromChildFrame": "Child Iframe",
+  "textFromParentFrame": "Parent frame"
+}
